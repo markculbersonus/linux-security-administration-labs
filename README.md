@@ -33,5 +33,4 @@ The images are extracted from submitted coursework, not generated demonstrations
 - Consider replacing course-instruction screenshots with tightly cropped terminal-only evidence.
 - Never upload `/etc/shadow`, password hashes, real passwords, API keys, or private network information.
 
-## Contact
 
