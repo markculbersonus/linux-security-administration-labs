@@ -35,4 +35,3 @@ The images are extracted from submitted coursework, not generated demonstrations
 
 ## Contact
 
-[Portfolio website](https://markbusinessacc1.wixsite.com/mark-cyber-portfolio)
