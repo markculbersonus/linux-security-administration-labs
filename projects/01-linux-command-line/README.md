@@ -2,7 +2,7 @@
 
 **Course:** CYSE 270 — Linux System for Cybersecurity, Old Dominion University  
 **Evidence type:** Screenshots extracted from a submitted coursework PDF.  
-**Source:** `CYSE 270 - Assignment 2-Working with Command Line (1)(1).pdf` (not included in this public-facing package).
+**Source:** `CYSE 270 - Assignment 2-Working with Command Line ` (not included in this public-facing package).
 
 ## Project overview
 Navigated the Linux filesystem using absolute and relative paths, inspected directory listings and system files, and practiced creating, copying, renaming, and removing files and directories.
