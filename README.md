@@ -4,7 +4,6 @@
 
 Hands-on Linux coursework demonstrating command-line administration, user and group management, access controls, storage, Bash scripting, scheduled backups, IPv4 subnetting, and network diagnostics.
 
-[Cybersecurity Portfolio](https://markbusinessacc1.wixsite.com/mark-cyber-portfolio)
 
 ## Featured work
 
